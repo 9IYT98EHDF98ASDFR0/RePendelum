@@ -1,3 +1,5 @@
+warn("hot hub loaded pendulum sucks cope")
+
 if isfolder and not isfolder("PendelumAssets") then
 	makefolder("PendelumAssets")
 elseif isfolder and isfolder("PendelumAssets") then
